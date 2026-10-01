@@ -1,17 +1,17 @@
-# 🌐 C++ STL Masterclass
+## 📂 C++ STL Blueprint
 
-## 👾 Learning Levels
+### 🎓 Learning Levels
 
-🌱 Level 1 • Victor (01-26)
+▪️ Level 1 • Victor (01-26)
 
-🌿 Level 2 • 
+▪️ Level 2 • 
 
-🌳 Level 3 • 
+▪️ Level 3 • 
 
-⚡ Level 4 • 
+▪️ Level 4 • 
 
-🎯 Level 5 • 
+▪️ Level 5 • 
 
-🏆 Level 6 • 
+▪️ Level 6 • 
 
-🍷 Level 7 •
+▪️ Level 7 • 

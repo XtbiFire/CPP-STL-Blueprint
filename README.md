@@ -4,7 +4,7 @@
 
 ▪️ Level 1 • Victor (01-26)
 
-▪️ Level 2 • List (27-70)
+▪️ Level 2 • List (30-70)
 
 ▪️ Level 3 • 
 
